@@ -2,7 +2,7 @@ title               : John Doe
 description         : >-                               # >- means to ignore newlines until "url:"
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-url                 : "/"
+url                 : "https://vyshnav2255.github.io/Minimal-Portfolio-Website/"
 repository          : Vyshnav2255/Minimal-Portfolio-Website 
 
 email: example@xyz.xyz
