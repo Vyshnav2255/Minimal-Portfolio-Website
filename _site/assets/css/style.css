@@ -5,7 +5,7 @@ html, body { height: 100%; color: #000; }
 
 .blurbg { background: rgba(255, 255, 255, 0.6); backdrop-filter: blur(20px); padding-right: 30px; padding-left: 30px; }
 
-.background { display: block; width: 100%; height: 100%; position: absolute; background-image: url(/Images/background.svg); background-repeat: no-repeat; background-position: right top; background-size: auto 100vh; }
+.background { display: block; width: 100%; height: 100%; position: absolute; background-image: url(../Images/background.svg); background-repeat: no-repeat; background-position: right top; background-size: auto 100vh; }
 
 @media (min-width: 768px) { .height-100 { height: 100%; } }
 h1 { font-family: 'Kulim Park', sans-serif; font-weight: 700 !important; }
@@ -18,7 +18,7 @@ h1 { font-family: 'Kulim Park', sans-serif; font-weight: 700 !important; }
 
 .background-test { position: relative; }
 
-.background2 { height: 100%; width: 100%; position: absolute; background-image: url(Images/background.svg); background-repeat: no-repeat; background-position: left top; background-size: auto 100vh; }
+.background2 { height: 100%; width: 100%; position: absolute; background-image: url(../Images/background.svg); background-repeat: no-repeat; background-position: left top; background-size: auto 100vh; }
 
 .container-fluid { padding-left: 0px; padding-right: 0px; }
 
