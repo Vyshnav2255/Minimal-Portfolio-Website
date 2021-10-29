@@ -18,7 +18,7 @@ h1 { font-family: 'Kulim Park', sans-serif; font-weight: 700 !important; }
 
 .background-test { position: relative; }
 
-.background2 { height: 100%; width: 100%; position: absolute; background-image: url(/Images/background.svg); background-repeat: no-repeat; background-position: left top; background-size: auto 100vh; }
+.background2 { height: 100%; width: 100%; position: absolute; background-image: url(Images/background.svg); background-repeat: no-repeat; background-position: left top; background-size: auto 100vh; }
 
 .container-fluid { padding-left: 0px; padding-right: 0px; }
 
